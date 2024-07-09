@@ -1,0 +1,17 @@
+name: database_basics
+version: 0.1.0
+
+authors:
+  - Mukund K
+
+description: |
+  A simple database connection and query example in Crystal
+
+dependencies:
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+    version: 0.21.0
+
+targets:
+  basics:
+    main: src/basics.cr

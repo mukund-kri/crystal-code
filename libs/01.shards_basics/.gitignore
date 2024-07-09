@@ -1,0 +1,9 @@
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf
+
+# I don't want to track generated plots
+*.pdf
+

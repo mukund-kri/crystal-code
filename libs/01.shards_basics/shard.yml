@@ -1,0 +1,14 @@
+name: shards_basics
+version: 0.1.0
+
+dependencies:
+  cryplot:
+    github: naqvis/cryplot
+    version: 0.1.1
+
+targets:
+  shards_basics:
+    main: bin/main.cr
+
+  boxplot:
+    main: bin/boxplot.cr
