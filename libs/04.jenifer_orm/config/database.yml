@@ -1,0 +1,8 @@
+development:
+  db: Delhi.development.db
+
+test:
+  db: Delhi.test.db
+
+production:
+  db: Delhi.production.db

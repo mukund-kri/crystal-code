@@ -1,0 +1,28 @@
+name: jenifer_orm
+version: 0.0.1
+
+authors:
+  - Mukund K
+
+dependencies:
+  db:
+    github: crystal-lang/crystal-db
+    version: 0.13.1
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+    version: 0.21.0
+
+  jennifer:
+    github: imdrasil/jennifer.cr
+    version: ~> 0.13.0
+  jennifer_sqlite3_adapter:
+    github: imdrasil/jennifer_sqlite3_adapter
+    version: "~> 0.4.0"
+
+  sam:
+    github: imdrasil/sam.cr
+    version: 0.5.0
+
+targets:
+  target1:
+    main: src/main.cr
