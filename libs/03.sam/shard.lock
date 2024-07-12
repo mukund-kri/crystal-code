@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  sam:
+    git: https://github.com/imdrasil/sam.cr.git
+    version: 0.5.0
+

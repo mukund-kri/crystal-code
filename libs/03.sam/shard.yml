@@ -1,0 +1,13 @@
+name: sam
+version: 0.0.1
+
+authors:
+  - Mukund K
+
+dependencies:
+  sam:
+    github: imdrasil/sam.cr
+
+targets:
+  target1:
+    main: src/main.cr
