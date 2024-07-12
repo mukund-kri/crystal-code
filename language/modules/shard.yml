@@ -1,0 +1,12 @@
+name: modules
+version: 0.0.1
+
+authors:
+  - Mukund K
+
+# dependencies:
+#   Add your dependiencies here
+
+targets:
+  as_namespace:
+    main: src/as_namespace.cr
