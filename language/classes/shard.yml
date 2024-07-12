@@ -1,0 +1,12 @@
+name: classes
+version: 0.0.1
+
+authors:
+  - Mukund K
+
+# dependencies:
+#   Add your dependiencies here
+
+targets:
+  target1:
+    main: src/main.cr
